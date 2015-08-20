@@ -7,5 +7,5 @@ My EMACS setup
 # Theme
 * https://github.com/oneKelvinSmith/monokai-emacs
 
-# Binary
+# Binary (C:\Program Files (x86)\emacs\bin)
 * http://sourceforge.net/projects/ezwinports/files/
